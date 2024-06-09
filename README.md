@@ -69,3 +69,5 @@ Dataset is cleaned and transformed, now the data is ready for modeling.
 
 
 ## Insights
+
+- Call center
