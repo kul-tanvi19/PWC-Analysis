@@ -1,6 +1,6 @@
 # **PWC Call Center Trend Analysis using Power BI**
 
-![pexels-yankrukov-8867482](https://github.com/tanvi19-k/PWC-Data-Analysis/assets/172184420/a010ecd5-0440-4805-b7cf-685925369acb)
+![pexels-yankrukov-8867482](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/316b3480-ad77-42c0-a611-b28ac03e4f61)
 
 
 ## Table of Content:
@@ -28,7 +28,8 @@ Create a Power BI dashboard to analyse the trends and patterns of a Call Center 
 ## Datasource
 Dataset was provided by PWC Switzerland.
 
-![image](https://github.com/tanvi19-k/PWC-Data-Analysis/assets/172184420/7148674d-a255-42db-b951-1e7b22c39c5b)
+![image](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/7e7474ba-7504-40a3-a334-d9fd1ee3af13)
+
 
 
 ## Data Preparation
@@ -45,7 +46,7 @@ Dataset was provided by PWC Switzerland.
 ## Data Modeling
 Dataset is cleaned and transformed, now the data is ready for modeling.
 
-![image](https://github.com/tanvi19-k/PWC-Data-Analysis/assets/172184420/25a74bef-acaf-4b6a-b032-b236a44a6fe2)
+![image](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/116a3644-05b4-49f1-879c-c062b6405e2d)
 
 
 ## Data Analysis
