@@ -65,7 +65,7 @@ Dataset is cleaned and transformed, now the data is ready for modeling.
 ## Data Visualization
 **Dashboard**
 
-![image](https://github.com/tanvi19-k/PWC-Data-Analysis/assets/172184420/4d50ce68-406b-4959-a011-fee16539f429)
+![image](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/3257e0a8-cb37-49de-8f6d-f6185140e72c)
 
 
 ## Insights
