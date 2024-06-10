@@ -86,8 +86,9 @@ Dataset is cleaned and transformed, now the data is ready for modeling.
       - The average speed of answering calls in sec is `67.52`.
       - *Joe's* speed of answering calls is the `highest` and *Becky's* speed is the `lowest` one.
 
-  ### Top 3 agents based on calls attended : 
+  - **Top 3 agents based on calls attended** :
       - *Jim*, *Martha*, for 3rd position there are 2 agents *Dan* and *Diane*.
+    
       
   ### Top 3 agents based on calls resolved :
       - *Jim*, *Dan*, *Becky*. As we can see *Martha* and *Diane* `attended the maximum calls` than *Becky*, as *Becky* `resolved the maximum calls`.
