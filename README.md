@@ -33,11 +33,11 @@ Dataset was provided by PWC Switzerland.
 
 
 ## Data Preparation
-  - Understanding the data
+  - Understanding the data : 
       - Data consists of `10 Columns` and `5000 records`.
       - Column names are as `Call Id`, `Agent`, `Date`, `Time`, `Topic`, `Answered (Y/N)`, `Resolved`, `Speed of answer in seconds`, `AvgTalkDuration` and `Satisfaction rating`.
 
-  - Data Transformation
+  - Data Transformation :
       - Data is then loaded into Power BI to do some transformations.
       - After observing the data I found that the data type of few columns like `Time`, `AvgTalkDuration` and `Satisfaction rating` was incorrect so I changed `Time`, `AvgTalkDuration` data type to `Time` and `Satisfaction rating` to `Int`.
       - Created separate bins for `Time` to analyse call trends as per time parameter.
