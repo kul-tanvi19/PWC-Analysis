@@ -69,5 +69,23 @@ Dataset is cleaned and transformed, now the data is ready for modeling.
 
 
 ## Insights
+  - Based on overall calls :
+      - Total calls are `5000`. 
+      - Overall `maximum calls` are recorded in the month of *January*.
+      - The percentage of issue resolved in *January* was `maximum`, `slightly dip` in *February* then again `increased` in *March*.
+      - Most of the calls come in the morning.
+      - Majority of the calls are related to *Streaming* issue.
+      - *Jim* attended and resolved `maximum calls` than other agents.
+   
+  - Based on overall satisfaction rating :
+      - The average satisfaction rating is `3.4`.
+      - Average satisfaction rating decreased over months. *January* has `highest` and *March* has `lowest`.
+      - *Martha* got the `highest` satisfaction rating and *Joe* got the `lowest` rating.
 
-- Call center
+  - Based on overall speed of answering calls in seconds :
+      - The average speed of answering calls in sec is `67.52`.
+      - *Joe's* speed of answering calls is the `highest` and *Becky's* speed is the `lowest` one.
+
+  **Top 3 agents based on calls attended** : *Jim*, *Martha*, for 3rd position there are 2 agents *Dan* and *Diane*.
+  **Top 3 agents based on calls resolved** : *Jim*, *Dan*, *Becky*. As we can see *Martha* and *Diane* `attended the maximum calls` than *Becky*, as *Becky* `resolved the maximum calls`.
+  **Top 3 agents based on satisfaction ratings** : *Martha*, *Dan*, *Diane*. Even if *Jim* and *Becky* `resolved the maximum calls` they got `lowest satisfaction ratings`.
