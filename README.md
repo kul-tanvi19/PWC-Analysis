@@ -2,6 +2,7 @@
 
 ![pexels-yankrukov-8867482](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/316b3480-ad77-42c0-a611-b28ac03e4f61)
 
+</br>
 
 ## Table of Content:
   - [Problem Statement](#Problem-Statement)
@@ -12,10 +13,12 @@
   - [Data Visualization](#Data-Visualization)
   - [Insights](#Insights)
 
+</br>
 
 ## Problem Statement
 Create a Power BI dashboard to analyse the trends and patterns of a Call Center that helps manager to reflect all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
+</br>
 
 **Possible KPIs include (to get you started, but not limited to):**
   - Overall customer satisfaction
@@ -24,13 +27,14 @@ Create a Power BI dashboard to analyse the trends and patterns of a Call Center 
   - Average speed of answer
   - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+</br>
 
 ## Datasource
 Dataset was provided by PWC Switzerland.
 
 ![image](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/7e7474ba-7504-40a3-a334-d9fd1ee3af13)
 
-
+</br>
 
 ## Data Preparation
   - Understanding the date
@@ -42,12 +46,14 @@ Dataset was provided by PWC Switzerland.
       - After observing the data I found that the data type of few columns like `Time`, `AvgTalkDuration` and `Satisfaction rating` was incorrect so I changed `Time`, `AvgTalkDuration` data type to `Time` and `Satisfaction rating` to `Int`.
       - Created separate bins for `Time` to analyse call trends as per time parameter.
 
+</br>
 
 ## Data Modeling
 Dataset is cleaned and transformed, now the data is ready for modeling.
 
 ![image](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/116a3644-05b4-49f1-879c-c062b6405e2d)
 
+</br>
 
 ## Data Analysis
   - DAX measures used :
@@ -62,11 +68,14 @@ Dataset is cleaned and transformed, now the data is ready for modeling.
       - Filter call center report by `Topics`.
       - Filter call center report by `Agents`.
 
+</br>
+
 ## Data Visualization
 **Dashboard**
 
 ![image](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/3257e0a8-cb37-49de-8f6d-f6185140e72c)
 
+</br>
 
 ## Insights
   - Based on overall calls :
