@@ -2,7 +2,6 @@
 
 ![pexels-yankrukov-8867482](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/316b3480-ad77-42c0-a611-b28ac03e4f61)
 
-</br>
 
 ## Table of Content:
   - [Problem Statement](#Problem-Statement)
@@ -34,7 +33,7 @@ Dataset was provided by PWC Switzerland.
 
 ![image](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/7e7474ba-7504-40a3-a334-d9fd1ee3af13)
 
-</br>
+
 
 ## Data Preparation
   - Understanding the date
@@ -53,7 +52,7 @@ Dataset is cleaned and transformed, now the data is ready for modeling.
 
 ![image](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/116a3644-05b4-49f1-879c-c062b6405e2d)
 
-</br>
+
 
 ## Data Analysis
   - DAX measures used :
