@@ -3,7 +3,7 @@
 ![pexels-yankrukov-8867482](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/316b3480-ad77-42c0-a611-b28ac03e4f61)
 
 
-## Table of Content:
+## Table of Content
   - [Problem Statement](#Problem-Statement)
   - [Datasource](#Datasource)
   - [Data Preparation](#Data-Preparation)
@@ -33,7 +33,7 @@ Dataset was provided by PWC Switzerland.
 
 
 ## Data Preparation
-  - Understanding the date
+  - Understanding the data
       - Data consists of `10 Columns` and `5000 records`.
       - Column names are as `Call Id`, `Agent`, `Date`, `Time`, `Topic`, `Answered (Y/N)`, `Resolved`, `Speed of answer in seconds`, `AvgTalkDuration` and `Satisfaction rating`.
 
