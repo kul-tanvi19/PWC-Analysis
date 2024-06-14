@@ -1,6 +1,7 @@
 # **PWC Call Center Trend Analysis using Power BI**
 
-![pexels-yankrukov-8867482](https://github.com/tanvi19-k/PWC-Analysis/assets/172184420/316b3480-ad77-42c0-a611-b28ac03e4f61)
+![image](https://github.com/kul-tanvi19/PWC-Analysis/assets/172184420/a5e393f9-8ca3-44c9-9111-57702ceb600a)
+
 
 
 ## Table of Content
